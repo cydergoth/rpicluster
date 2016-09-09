@@ -1,0 +1,6 @@
+[submodule "rpi-alpine-scratch"]
+	path = rpi-alpine-scratch
+	url = ./docker/rpi/base/rpi-alpine-scratch/
+[submodule "rpi-golang"]
+	path = rpi-golang
+	url = ./docker/rpi/rpi-golang/
